@@ -244,6 +244,9 @@ button:hover{
         margin-left: 0;
         margin-top: 70px;
     }
+    .info-text h1{
+        font-size: 2rem;
+    }
     .info-text p{
         line-height: 2;
     }
@@ -253,6 +256,7 @@ button:hover{
     .content .content-nav h1{
         margin: auto;
         text-align: center;
+        font-size: 2rem;
     }
     .photos .photos-img{
         flex: 1 100%;
@@ -300,6 +304,9 @@ button:hover{
     .footer-list ul{
         flex-direction: column;
         margin-bottom: 70px;
+    }
+    .footer-list li{
+        margin-right: 0;
     }
     .footer-contact .icons{
         justify-content: center;
