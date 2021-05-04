@@ -232,7 +232,7 @@ button:hover{
     }
     .intro-heading h1{
         width: 80%;
-        font-size: 3rem;
+        font-size: 2rem;
     }
     .info{
         width: 80%;
@@ -252,6 +252,7 @@ button:hover{
     }
     .content .content-nav h1{
         margin: auto;
+        text-align: center;
     }
     .photos .photos-img{
         flex: 1 100%;
